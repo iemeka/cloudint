@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cloudint/static/css/main.65f8731e.chunk.css",
+    "main.css": "/cloudint/static/css/main.8c1fd36a.chunk.css",
     "main.js": "/cloudint/static/js/main.53f0c6a4.chunk.js",
     "main.js.map": "/cloudint/static/js/main.53f0c6a4.chunk.js.map",
     "runtime-main.js": "/cloudint/static/js/runtime-main.16d1186b.js",
@@ -8,14 +8,14 @@
     "static/js/2.bc6c273c.chunk.js": "/cloudint/static/js/2.bc6c273c.chunk.js",
     "static/js/2.bc6c273c.chunk.js.map": "/cloudint/static/js/2.bc6c273c.chunk.js.map",
     "index.html": "/cloudint/index.html",
-    "static/css/main.65f8731e.chunk.css.map": "/cloudint/static/css/main.65f8731e.chunk.css.map",
+    "static/css/main.8c1fd36a.chunk.css.map": "/cloudint/static/css/main.8c1fd36a.chunk.css.map",
     "static/js/2.bc6c273c.chunk.js.LICENSE.txt": "/cloudint/static/js/2.bc6c273c.chunk.js.LICENSE.txt",
     "static/media/Figma.css": "/cloudint/static/media/img.51be7321.png"
   },
   "entrypoints": [
     "static/js/runtime-main.16d1186b.js",
     "static/js/2.bc6c273c.chunk.js",
-    "static/css/main.65f8731e.chunk.css",
+    "static/css/main.8c1fd36a.chunk.css",
     "static/js/main.53f0c6a4.chunk.js"
   ]
 }
